@@ -272,13 +272,13 @@
             type="text"
             name="tabulator_name"
             value="{{ old('tabulator_name') }}"
-            placeholder="Example: Kristine Laurenaria">
+            placeholder="Example: Aeljean Villamil Jasareno">
 
         <label>Description (Optional)</label>
 
         <textarea
             name="description"
-            placeholder="Example: Annual CCDI Mr. and Ms. Intramurals Pageant">{{ old('description') }}</textarea>
+            placeholder="Example: CCDI Mr. and Ms. Intramurals Pageant">{{ old('description') }}</textarea>
 
         <button type="submit" class="btn">
 
